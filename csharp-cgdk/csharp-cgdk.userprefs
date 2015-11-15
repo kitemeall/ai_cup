@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="csharp-cgdk.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="c:\Users\ri\Documents\ai_cup\csharp-cgdk\RemoteProcessClient.cs">
+    <Files>
+      <File FileName="c:\Users\ri\Documents\ai_cup\csharp-cgdk\RemoteProcessClient.cs" Line="683" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
